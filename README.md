@@ -4,7 +4,7 @@ This repo is the author's implementation of Adaptive Ensemble Q-learning (AdaEQ)
 
 # Update
 
-We notice the REDQ algorithm has been updated lately in the author's repo (link: https://github.com/watchernyu/REDQ). Thanks to the effort by the author and we are also working hard on releasing the compatible version as soon as possible. 
+We notice the REDQ algorithm has been updated lately in the author's repo (link: https://github.com/watchernyu/REDQ). Thanks for the effort by the author and we are also working hard on releasing the compatible version as soon as possible. 
 
 ## Code structure explained
 The code structure is identical with REDQ algorithm. 
